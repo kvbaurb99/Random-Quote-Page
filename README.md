@@ -1,6 +1,6 @@
 # Random-Quote-Page
 ## Description
-Random Quote Machine is a web page where you can generate a random quote.
+Random Quote Page is a web page where you can generate a random quote.
 Link to live page: https://kvbaurb99.github.io/Random-Quote-Page/
 ## How to use 
 - To generate quote you have to click on "New quote" button.
